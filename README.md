@@ -1,87 +1,95 @@
 <div align="center">
-  <h1>👋 Hi, I'm Abhishek Jaiswal</h1>
-  <h3>Backend & AI Engineer | Architecting Intelligent, Production-Ready Systems</h3>
-  <p>I build autonomous AI agents, highly scalable backend architectures, and premium full-stack experiences. I thrive on bridging the gap between advanced Machine Learning research and robust, enterprise-grade software engineering.</p>
+
+<!-- Dynamic Typing Header -->
+<a href="https://github.com/abhijai7088">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Abhishek+Jaiswal+%F0%9F%91%8B;Backend+%26+AI+Engineer;Building+Scalable+Microservices;Orchestrating+LLM+Agents;6x+National+Hackathon+Winner" alt="Typing SVG" />
+</a>
+
+**Architecting Intelligent, Scalable & Production-Ready Systems**
+
+I bridge the gap between advanced **Artificial Intelligence** research and robust **Backend Engineering**. I specialize in multi-agent LLM systems, microservice architectures, and deploying full-stack SaaS platforms that solve complex real-world problems.
+
+<br/>
+
+<!-- Social Links & Contact -->
+<a href="https://linkedin.com/in/abhishekjaiswalabesit" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/Abhishe80002015" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="https://www.kaggle.com/abhijai7088" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/>
+</a>
+<a href="https://7zjd6j.csb.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio"/>
+</a>
+
+<br/><br/>
+
+<!-- Visual Tech Stack -->
+<h3>🛠️ Tech Stack & Arsenal</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,java,react,nextjs,tailwind,nodejs,express,fastapi,flask,mongodb,postgres,docker,git,linux&perline=8" alt="Tech Stack"/>
+</a>
+
+<br/><br/>
+
+</div>
+
+---
+
+## 🚀 Live Production Deployments 
+
+_Products engineered from ground zero to live servers._
+
+| Project & Live Link | Architecture & Impact | Tech Stack |
+| :--- | :--- | :--- |
+| 🤖 **[PhoenixCi Agent](https://phoenix-ci-dashboard.vercel.app/)** <br/> `Autonomous DevOps` | **Self-Healing CI/CD Pipeline:** Multi-agent LLM architecture (LangGraph) that detects build failures, generates patches via isolated Docker sandboxing, and automatically commits fixes. | `FastAPI` `LangGraph` `React` `Mistral` `Docker` |
+| 🏛️ **[INHERIX.net](https://www.inherix.net)** <br/> `Digital SaaS Platform` | **Digital Continuity Infrastructure:** Premium, enterprise-grade Next.js architecture managing secure access workflows, client/nominee wireframes ([app.inherix.net](https://app.inherix.net)), and robust SEO metadata. | `Next.js` `React` `Tailwind` `Vite` |
+| 🏥 **[AI-CMS Platform](https://cms.ott-tube.in/)** <br/> `Enterprise Clinic MVP` | **Intelligent Clinic Management:** Hybrid microservice backend featuring Express API for secure RBAC and a dedicated Python FastAPI service for HIPAA-compliant LLM/OCR/STT assistive workflows. | `Node.js` `FastAPI` `MongoDB` `JWT` `Nginx` |
+
+<br/>
+
+## 🔬 Deep-Tech & Open Source Integrations
+
+> Advanced backend pipelines and computer vision research repositories.
+
+* **[AI Lost Person Tracker](https://github.com/abhijai7088/AI-Based-Lost-Person-Tracking-System):** Real-time spatial CCTV tracking utilizing `YOLOv8`, `ArcFace`, and `ByteTrack` for intelligent identification.
+* **[AQUADEX (eDNA Pipeline)](https://github.com/abhijai7088/AQUADEX):** AI-first bioinformatics pipeline for deep-sea biodiversity analysis using environmental DNA sequencing.
+* **[Insurance Premium ML API](https://github.com/abhijai7088/insurance-premium-ml-api):** Production-ready, fully Dockerized machine learning backend for real-time risk assessment.
+* **[LLM Integration Data Pipeline](https://github.com/abhijai7088/LLM-Integration-Data-Pipeline):** Robust automated ingestion engine for unstructured data (TXT/PDF) into structured JSON/CSV using direct LLM APIs.
+
+<br/>
+
+## 🏆 Innovation & Hackathons (6x Winner)
+
+I thrive under pressure. Building scalable, production-ready prototypes within 24-48 hour constraints has defined my approach to rapid engineering.
+
+<div align="center">
+  
+| 🥇 1st Place Wins | 🥈 & 🥉 Podium Finishes |
+| :--- | :--- |
+| **Hack-a-Pirate** (NSUT, New Delhi) | 🥈 **SuperNova Hackathon** (GL Bajaj) |
+| **NEXVERSE Hackathon** (IITM, Janakpuri) | 🥈 **Hackathon at MAIT** (New Delhi) |
+| **CodeAThon 4.0** (ABESIT) | 🥉 **Innovator’s Knockout Summit** |
+
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhijai7088&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijai7088&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
 </div>
 
 <br/>
 
 <div align="center">
-
-  <!-- Backend Badges -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  
-  <!-- AI/ML Badges -->
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLOv8-FF0000?style=for-the-badge&logo=yolo&logoColor=white" />
-  
-  <!-- DevOps & DB Badges -->
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  
-  <!-- Frontend Badges -->
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-
+  <img src="https://komarev.com/ghpvc/?username=abhijai7088&label=PROFILE+VIEWS&style=flat-square&color=2196F3" alt="Profile Views"/>
+  <br/><br/>
+  <i>"Design clean, deploy modular, and always build for production."</i><br/>
+  <b>📫 Open to Backend/AI roles, freelance engineering, and open-source collaborations.</b>
 </div>
-
-<br/>
-
-## 🚀 Featured Engineering Products
-
-### 1. 🤖 Phoenix: Autonomous CI/CD Healing Agent
-An AI-powered, self-healing repository engine that autonomously detects CI test failures, generates targeted AI-based fixes, and iteratively repairs codebases using a multi-agent LLM framework.
-* **Architecture:** Orchestrated a rigorous 7-stage multi-agent protocol using LangGraph (Repo Analyst, Test Runner, Fix Planner, Code Editor, Git Operator).
-* **Execution Infrastructure:** Engineered Docker-isolated sandboxed environments with strict memory constraints for secure, ephemeral test runs.
-* 🔗 **Live Platform:** [PhoenixCi — Autonomous DevOps Agent](https://phoenix-ci-dashboard.vercel.app)
-
-### 2. 🏛️ INHERIX: Digital Continuity Infrastructure
-A premium, production-grade Next.js SaaS platform built to provide structured digital continuity, secure organization, and access workflows for families and trusted advisors.
-* **Engineering Focus:** Built a highly polished, trust-oriented frontend architecture with complex state management, static admin/client/nominee dashboards, and a premium editorial visual language.
-* **Performance:** Optimized for SEO, core web vitals, and seamless motion design.
-* 🔗 **Live Website:** [inherix.net](https://www.inherix.net) | **Live Product:** [app.inherix.net](https://app.inherix.net)
-
-### 3. 🏥 AI-CMS: Enterprise Clinic Management System
-A full-stack, microservices-based clinic management platform integrating patient intake, scheduling, billing, and assistive clinical AI workflows.
-* **Hybrid Backend Architecture:** Designed an Express.js API for strict RBAC (Role-Based Access Control) and a dedicated FastAPI Python service for compute-heavy LLM/OCR/STT tasks.
-* **AI Safety Implementation:** Integrated clinical note formatting and symptom guidance under a strict "AI supports, doctors approve" workflow model.
-* 🔗 **Live Deployment:** [cms.ott-tube.in](https://cms.ott-tube.in/) *(Deployed via Docker Compose & Nginx on an Ubuntu VPS)*
-
----
-
-## 🏗️ Notable Technical Projects
-
-* 🌍 **ClimateTrack AI:** AI-powered monitoring dashboard integrating live AQI tracking, NASA data APIs, and NLP chatbot assistance.
-* 👁️ **AI Lost Person Tracker:** Real-time CCTV detection system utilizing YOLOv8, ArcFace, ByteTrack, and ReID for intelligent spatial tracking.
-* 🔐 **Smart NFC + Blockchain Auth:** Hardware-to-software anti-counterfeit verification system integrating physical NFC tags with Ethereum smart contracts.
-* 🚛 **Army Vehicle Dispatch System:** Full-stack dispatch platform featuring secure admin logs, real-time vehicle status dashboards, and monitoring.
-
----
-
-## 🏆 Innovation & Hackathon Success
-
-I thrive in high-pressure engineering environments. Building production-ready prototypes from scratch within 24-48 hours has shaped my approach to rapid, scalable development.
-
-| Award | Event / Organization | Focus Area |
-| :--- | :--- | :--- |
-| 🥇 **1st Prize** | Hack-a-Pirate (NSUT, New Delhi) | AI / Backend Architecture |
-| 🥇 **1st Prize** | NEXVERSE Hackathon (IITM, Janakpuri) | Full-Stack Innovation |
-| 🥇 **1st Prize** | CodeAThon 4.0 (ABESIT) | Software Engineering |
-| 🥈 **2nd Prize** | SuperNova Hackathon (GL Bajaj) | AI Integration |
-| 🥈 **2nd Position**| Hackathon at Maharaja Agrasen (MAIT)| Web3 / Systems |
-| 🥉 **3rd Prize** | Innovator’s Knockout Startup Summit | SaaS Product MVP |
-
----
-
-## ⚡ Let's Collaborate
-
-I am currently open to **Backend Development**, **AI/ML Engineering** roles, and **freelance client projects** where I can architect robust solutions.
-
-* **Development Philosophy:** "Design clean, deploy modular, and always build for production."
-* **Contact:** Open a PR on my repositories or reach out via [LinkedIn](#) / [Email](#). *(Add your actual links here!)*
