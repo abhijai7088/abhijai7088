@@ -1,7 +1,7 @@
 <div align="center">
 
 # Abhishek Jaiswal
-### AI & Backend Engineer | FastAPI • LLM Agents • APIs • Docker & Cloud
+### AI & Backend Engineer | FastAPI • LLM Agents • APIs • Cloud DevOps
 
 **Building intelligent systems that don't just work — they are engineered to run.**
 
@@ -31,23 +31,23 @@ I build **AI-powered backend systems, APIs, agentic workflows, and deployable Sa
 
 ## 🛠️ Technology Stack & Expertise
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 ### 🤖 Core Identity: AI & Backend
-`Python` `FastAPI` `REST APIs` `Docker` `PostgreSQL` `MongoDB`
+<kbd>Python</kbd> <kbd>FastAPI</kbd> <kbd>REST APIs</kbd> <kbd>Docker</kbd> <kbd>PostgreSQL</kbd> <kbd>MongoDB</kbd>
 
 ### 🧩 Specialized AI & Vision
-`LangGraph` `YOLOv8` `ArcFace` `RetinaFace` `ByteTrack` `OSNet` `OpenCV` `LLM APIs`
+<kbd>LangGraph</kbd> <kbd>YOLOv8</kbd> <kbd>ArcFace</kbd> <kbd>RetinaFace</kbd> <kbd>ByteTrack</kbd> <kbd>OSNet</kbd> <kbd>OpenCV</kbd> <kbd>LLM APIs</kbd>
 </td>
 <td width="50%" valign="top">
 
 ### 🌐 Application Stack
-`React` `Next.js` `TypeScript` `Node.js` `Express`
+<kbd>React</kbd> <kbd>Next.js</kbd> <kbd>TypeScript</kbd> <kbd>Node.js</kbd> <kbd>Express</kbd>
 
 ### ☁️ Infrastructure & DevOps
-`AWS` `Linux` `Nginx` `Docker Compose` `Git` `CI/CD`
+<kbd>AWS</kbd> <kbd>Linux</kbd> <kbd>Nginx</kbd> <kbd>Docker Compose</kbd> <kbd>Git</kbd> <kbd>CI/CD</kbd>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@ A full-stack clinic management system combining operational workflows with AI-as
 **Computer Vision · Person Re-ID · Video Analytics**
 A pipeline designed to locate missing persons through CCTV footage by chaining multiple specialized computer vision models.
 * **Architecture Proof:** Engineered a sequential processing pipeline: Face Detection (`RetinaFace`) → Embeddings (`ArcFace`) → Person Detection (`YOLOv8`) → Tracking (`ByteTrack`) → Re-Identification (`OSNet`).
-* 🏆 **Hacknovate 6.0 Finalist** | 🥈 **SuperNova Hackathon 2nd Prize**
+* 💻 [Source](https://github.com/abhijai7088/AI-Based-Lost-Person-Tracking-System)
 
 ---
 
@@ -93,17 +93,18 @@ A pipeline designed to locate missing persons through CCTV footage by chaining m
 
 ---
 
-## 🏆 Proof of Execution (6× Podium Finisher)
+## 🏆 Proof of Execution (8× Podium Finisher)
 
-Building systems under extreme 24-48 hour constraints taught me how to rapidly move from **Architecture → Implementation → Integration → Deployment**.
+Building robust systems under extreme 24-48 hour constraints taught me how to rapidly move from **Architecture → Implementation → Integration → Deployment**.
 
 <div align="center">
 
 | 🥇 1st Place | 🥈 2nd Place | 🥉 3rd Place |
 | :--- | :--- | :--- |
-| **Hack-a-Pirate** (NSUT) | **SuperNova Hackathon** (GL Bajaj) | **Innovator's Knockout Summit** |
-| **NEXVERSE** (IITM) | **Hackathon at MAIT** | |
-| **CodeAThon 4.0** (ABESIT) | | |
+| **Hack-a-Pirate** (NSUT) | **Brewing Codes 4.0** (MUIT, Noida) | **SGU Hackathon 2.0** (SDGI) |
+| **NEXVERSE** (IITM) | **SuperNova Hackathon** (GL Bajaj) | **Innovator's Knockout Summit** |
+| **CodeAThon 4.0** (ABESIT) | **Hackathon at MAIT** | |
+| | | 🎯 *Finalist:* Hacknovate 6.0 |
 
 </div>
 
@@ -118,4 +119,4 @@ Building systems under extreme 24-48 hour constraints taught me how to rapidly m
 
 <br/>
 
-**🤝 Open To:** Backend API Development • AI Agent Orchestration • Deployment Automation • Computer Vision Pipelines. If you are building a system where AI needs to work reliably in production, let's collaborate.
+**🤝 Let's Build Something:** Backend API Development • AI Agent Orchestration • Deployment Automation • Computer Vision Pipelines. If you are building a system where AI needs to work reliably in production, let's collaborate.
